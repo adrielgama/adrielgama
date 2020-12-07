@@ -1,16 +1,16 @@
 ## Prazer, Adriel Gama.
 
 
-<a href="https://www.linkedin.com/in/adrielgama/">
+<a href="https://www.linkedin.com/in/adrielgama/" target="_blank">
   <img align="left" alt="Adriel Gama - Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/adrielgama">
+<a href="https://t.me/adrielgama" target="_blank">
   <img align="left" alt="Adriel Gama - Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/adrielgama/">
+<a href="https://www.instagram.com/adrielgama/" target="_blank">
   <img align="left" alt="Adriel Gama - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://adrielgama.github.io/">
+<a href="https://adrielgama.github.io/" target="_blank">
   <img align="left" alt="Adriel Gama - Resume" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/909/909263.svg" />
 </a>
 
@@ -28,7 +28,7 @@
 - 👩🏼‍💻 Estagiário de Suporte de TI no Conselho Regional de Enfermagem da Bahia;
 - 📚 Atualmente estudando React, aprimorando os conhecimentos em Javascript, HTML e CSS; 
 - 🚀 Com meta de ser um desenvolvedor front-end;
-- 📫 Como me encontrar: [Adriel Gama - Linkedin](https://www.linkedin.com/in/adrielgama/);
+- 📫 Como me encontrar: [Adriel Gama - Linkedin](https://www.linkedin.com/in/adrielgama/).
 
 **Linguagens e ferramentas:**
 

@@ -25,7 +25,7 @@
 
 **Sobre mim:**
 
-- 👩🏼‍💻 Estagiário de Suporte de TI no Conselho Regional de Enfermagem da Bahia;
+- 👩🏼‍💻 Assistente de Projetos de TI no Grupo Ramiro Campelo;
 - 📚 Atualmente estudando React, aprimorando os conhecimentos em Javascript, HTML e CSS; 
 - 🚀 Com meta de ser um desenvolvedor front-end;
 - 📫 Como me encontrar: [Adriel Gama - Linkedin](https://www.linkedin.com/in/adrielgama/).

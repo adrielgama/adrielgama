@@ -2,16 +2,16 @@
 
 
 <a href="https://www.linkedin.com/in/adrielgama/">
-  <img align="left" alt="Adriel Gama - Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+  <img align="left" alt="Adriel Gama - Linkedin" width="22px" src="linkedin.svg" />
+</a> 
 <a href="https://t.me/adrielgama">
-  <img align="left" alt="Adriel Gama - Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+  <img align="left" alt="Adriel Gama - Telegram" width="22px" src="telegram.svg" style="margin-left: 10px" />
+</a> 
 <a href="https://www.instagram.com/adrielgama/">
-  <img align="left" alt="Adriel Gama - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+  <img align="left" alt="Adriel Gama - Instagram" width="22px" src="insta.svg" style="margin-left: 10px" />
+</a> 
 <a href="https://adrielgama.github.io/">
-  <img align="left" alt="Adriel Gama - Resume" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/909/909263.svg" />
+  <img align="left" alt="Adriel Gama - Resume" width="22px" src="cv.svg" style="margin-left: 10px; margin-right: 10px" />
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=adrielgama.adrielgama)

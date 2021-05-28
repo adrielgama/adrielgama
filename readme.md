@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/adrielgama/">
   <img align="left" alt="Adriel Gama - Instagram" width="22px" src="insta.svg" style="margin-left: 10px" />
 </a> 
-<a href="https://adrielgama.github.io/">
+<a href="https://adrielgama.dev">
   <img align="left" alt="Adriel Gama - Resume" width="22px" src="cv.svg" style="margin-left: 10px; margin-right: 10px" />
 </a>
 

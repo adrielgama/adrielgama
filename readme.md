@@ -8,10 +8,6 @@
 
 <br />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=adrielgama.adrielgama)
-
-<br />
-
 <img align="right" alt="GIF" src="https://github.com/adrielgama/adrielgama/blob/main/code.gif?raw=true" width="380" height="202" />
 
 
@@ -61,3 +57,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adrielgama&theme=monokai) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrielgama&theme=monokai) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adrielgama&theme=monokai)
+
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=adrielgama.adrielgama)

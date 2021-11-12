@@ -4,24 +4,23 @@
 <a href = "mailto:adrielgama@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://www.instagram.com/adrielgama/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "https://t.me/adrielgama"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-
-<a href="https://adrielgama.dev">
-  <img align="left" alt="Adriel Gama - Resume" width="22px" src="cv.svg" style="margin-left: 10px; margin-right: 10px" />
-</a>
+<a href="https://adrielgama.dev" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 
 <br />
 
  Estudante do Curso de Análise e Desenvolvimento de Sistemas - [IFBA - Salvador](https://portal.ifba.edu.br/salvador) 🎓
 
 
-<img align="right" alt="GIF" src="https://github.com/adrielgama/adrielgama/blob/main/code.gif?raw=true" width="480" height="302" />
+<img align="right" alt="GIF" src="https://github.com/adrielgama/adrielgama/blob/main/code.gif?raw=true" width="380" height="202" />
 
-**About me:**
 
-- 👩🏼‍💻 Desenvolvedor Front-end Jr. - Farmácias App;
-- 📚 React student; 
-- 🚀 Próxima meta: Desenvolvedor Front-end PL;
-- 📫 Como me encontrar: [Adriel Gama - Linkedin](https://www.linkedin.com/in/adrielgama/).
+## ℹ️ About me
+
+- 🌱 I’m currently learning React, Typescript, NextJS and Storybook.
+- 🇧🇷 Born in Salvador-BA
+- 💻 Junior Developer at [Farmácias App](https://www.farmaciasapp.com.br/)
+- 🎓 Graduating in Systems Analysis and Development from the Federal Institute of Bahia.
+- 📫 You can reach here [Linkedin](https://www.linkedin.com/in/adrielgama/)
 
 <br />
 <br />

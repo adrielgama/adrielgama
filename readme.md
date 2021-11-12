@@ -52,9 +52,10 @@
 
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adrielgama&hide=contribs,issues&count_private=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrielgama&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrielgama&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adrielgama&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrielgama&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adrielgama&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrielgama&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![Visitors](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=adrielgama.adrielgama)

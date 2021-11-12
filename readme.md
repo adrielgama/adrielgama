@@ -8,9 +8,6 @@
 
 <br />
 
- Estudante do Curso de Análise e Desenvolvimento de Sistemas - [IFBA - Salvador](https://portal.ifba.edu.br/salvador) 🎓
-
-
 <img align="right" alt="GIF" src="https://github.com/adrielgama/adrielgama/blob/main/code.gif?raw=true" width="380" height="202" />
 
 
@@ -19,11 +16,9 @@
 - 🌱 I’m currently learning React, Typescript, NextJS and Storybook.
 - 🇧🇷 Born in Salvador-BA
 - 💻 Junior Developer at [Farmácias App](https://www.farmaciasapp.com.br/)
-- 🎓 Graduating in Systems Analysis and Development from the Federal Institute of Bahia.
+- 🎓 Graduating in Systems Analysis and Development from the [Federal Institute of Bahia - Salvador](https://portal.ifba.edu.br/salvador).
 - 📫 You can reach here [Linkedin](https://www.linkedin.com/in/adrielgama/)
 
-<br />
-<br />
 <br />
 
 ### Languages 👩‍💻

@@ -5,6 +5,9 @@
 <a href = "https://www.instagram.com/adrielgama/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "https://t.me/adrielgama"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 <a href="https://adrielgama.dev" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+
+<br />
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=adrielgama.adrielgama)
 
 <br />
@@ -53,8 +56,8 @@
 
 <br />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrielgama&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrielgama&theme=dracula) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adrielgama&theme=dracula) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrielgama&theme=dracula) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adrielgama&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrielgama&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrielgama&theme=monokai) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adrielgama&theme=monokai) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrielgama&theme=monokai) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adrielgama&theme=monokai)

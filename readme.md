@@ -72,4 +72,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrielgama&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+![Visitors](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=adrielgama.adrielgama)

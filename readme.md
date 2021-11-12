@@ -23,6 +23,9 @@
 - 🚀 Próxima meta: Desenvolvedor Front-end PL;
 - 📫 Como me encontrar: [Adriel Gama - Linkedin](https://www.linkedin.com/in/adrielgama/).
 
+<br />
+<br />
+<br />
 ### Languages 👩‍💻
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;

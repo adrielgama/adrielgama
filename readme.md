@@ -7,8 +7,8 @@
 <a href="https://adrielgama.dev" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 
 <br />
-
-<img align="right" alt="GIF" src="https://github.com/adrielgama/adrielgama/blob/main/code.gif?raw=true" width="380" height="202" />
+<!-- 
+<img align="right" alt="GIF" src="https://github.com/adrielgama/adrielgama/blob/main/code.gif?raw=true" width="380" height="202" /> -->
 
 
 ## ℹ️ About me

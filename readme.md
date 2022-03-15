@@ -25,6 +25,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrielgama&theme=monokai) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adrielgama&theme=monokai)
 
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=adrielgama.adrielgama)
+![visitors](https://komarev.com/ghpvc/?username=adrielgama)

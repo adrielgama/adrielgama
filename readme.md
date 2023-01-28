@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning React, Typescript and Storybook.
 - 🇧🇷 Born in Salvador-BA
 - 💻 Pleno Developer at [Farmácias App](https://www.farmaciasapp.com.br/)
-- 🎓 Graduating in Systems Analysis and Development from the [Federal Institute of Bahia - Salvador](https://portal.ifba.edu.br/salvador).
+- 🎓 Graduating in Systems Analysis and Development from the [UNIFACS - Salvador](https://www.unifacs.br/).
 - 📫 You can reach here [Linkedin](https://www.linkedin.com/in/adrielgama/)
 
 <br />

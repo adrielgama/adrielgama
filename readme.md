@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning React, Next.JS, Typescript and Storybook.
 - 🇧🇷 From Salvador, BA - Brazil
 - 🇮🇪 Born in Cork - Ireland
-- 💻 Pleno Developer at [Farmácias App](https://www.farmaciasapp.com.br/)
+- 💻 Mid level Front End Developer at [Farmácias App](https://www.farmaciasapp.com.br/)
 - 🎓 Graduating in Systems Analysis and Development from the [UNIFACS - Salvador](https://www.unifacs.br/).
 - 📫 You can reach here [Linkedin](https://www.linkedin.com/in/adrielgama/)
 

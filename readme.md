@@ -13,12 +13,13 @@
 
 ## ℹ️ About me
 
-- 🌱 I’m currently learning React, Next.JS, Typescript and Storybook.
+- 🌱 I’m currently learning Next.JS and Tailwind.
 - 🇧🇷 From Salvador, BA - Brazil
 - 🇮🇪 Born in Cork - Ireland
 - 💻 Mid level Front End Developer at [Farmácias App](https://www.farmaciasapp.com.br/)
 - 🎓 Graduating in Systems Analysis and Development from the [UNIFACS - Salvador](https://www.unifacs.br/).
 - 📫 You can reach here [Linkedin](https://www.linkedin.com/in/adrielgama/)
+- 🚀 HTML, CSS, ReactJS, Typescript, StoryBook, Styled Components, Radix, Stitches, Material UI, Bootstrap, NPM, Yarn, API RESTful, Git, GitHub, Jira, Bitbucket, Azure DevOps, Figma, Scrum, Kanban, Pixel Perfect.
 
 <br />
 

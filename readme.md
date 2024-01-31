@@ -13,7 +13,7 @@
 
 ## ℹ️ About me
 
-- 🌱 I’m currently learning Nest and Prisma.
+- 🌱 I’m currently learning Playwright for tests and Nest and Prisma for the backend.
 - 🇧🇷 From Salvador, BA - Brazil
 - 💻 Mid level Front End Developer at [Farmácias App](https://www.farmaciasapp.com.br/)
 - 🎓 Graduating in Systems Analysis and Development from the [UNIFACS - Salvador](https://www.unifacs.br/).

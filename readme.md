@@ -18,7 +18,7 @@
 - 💻 Mid level Front End Developer at [Farmácias App](https://www.farmaciasapp.com.br/)
 - 🎓 Graduating in Systems Analysis and Development from the [UNIFACS - Salvador](https://www.unifacs.br/).
 - 📫 You can reach here [Linkedin](https://www.linkedin.com/in/adrielgama/)
-- 🚀 HTML, CSS, JavaScript, TypeScript, React, Next.js, CRA, Vite, Tailwind, Shadcn, Radix, Stitches, Styled Components, Bootstrap, Material UI, Emotion, Storybook, SASS, React Hook Form, ZOD, Yup, Playwright Test, NPM, Yarn, SEO, Git, GitHub, Jira, Bitbucket, Azure DevOps, AWS Amplify, Node, Express, Axios, Nookies, React Query, SQL, API RESTful, UI/UX, Figma, Responsive Design, Pixel Perfect, Scrum, Kanban.
+- 🚀 HTML, CSS, JavaScript, TypeScript, React, Next.js, CRA, Vite, Tailwind, Shadcn, Radix, Stitches, Styled Components, Bootstrap, Material UI, Emotion, Storybook, SASS, React Hook Form, ZOD, Yup, Playwright Test, NPM, Yarn, SEO, Git, GitHub, Jira, Bitbucket, Azure DevOps, AWS Amplify, Node, Express, NestJS, Axios, Nookies, Context API, React Query, React Lottie, React Places Autocomplete, React Google Maps, Iconsax, JWT, SQL, API RESTful, UI/UX, Figma, Responsive Design, Pixel Perfect, Scrum, Kanban.
 
 <br />
 

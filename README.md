@@ -1,8 +1,8 @@
 <img src="images/svg/header_pt.svg"></img>
 
 <table align="right">
- <tr><td><a href="README_en.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
+ <tr><td><a href="README_en.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
 </table>
 
 ### :space_invader: &nbsp;Sobre mim
